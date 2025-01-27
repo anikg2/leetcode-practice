@@ -1,0 +1,1 @@
+Going to follow the tutorial on freecodecamp first.
